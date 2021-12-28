@@ -1,0 +1,10 @@
+.vscode
+*.o
+*.d
+*.dmd
+output_*.txt
+case5.txt
+case6.txt
+cell_move_router
+!cell_move_router/
+.DS_store
